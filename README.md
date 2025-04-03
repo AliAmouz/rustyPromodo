@@ -1,7 +1,7 @@
 # 🍅 Rusty Pomodoro
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Rust](https://github.com/yourusername/rusty_pomodoro/actions/workflows/rust.yml/badge.svg)](https://github.com/yourusername/rusty_pomodoro/actions/workflows/rust.yml)
+[![Rust](https://github.com/AliAmouz/rusty_pomodoro/actions/workflows/rust.yml/badge.svg)](https://github.com/AliAmouz/rusty_pomodoro/actions/workflows/rust.yml)
 [![Crates.io](https://img.shields.io/crates/v/rusty_pomodoro.svg)](https://crates.io/crates/rusty_pomodoro)
 
 A powerful, customizable Pomodoro timer with productivity analytics built in Rust.
@@ -29,7 +29,7 @@ cargo install rusty_pomodoro
 ### From Source
 
 ```bash
-git clone https://github.com/yourusername/rusty_pomodoro.git
+git clone https://github.com/AliAmouz/rusty_pomodoro.git
 cd rusty_pomodoro
 cargo install --path .
 ```
